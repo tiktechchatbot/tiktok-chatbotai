@@ -1,8 +1,5 @@
 # TikTech - ChatBOT AI for TikTok
 
-![Screenshot 2023-08-25 190316](https://github.com/tiktechchatbot/tiktok-chatbotai/assets/121228239/bf1aa317-fea7-4cef-8fd4-37463dd53bd3)
-
-
 # ENG
 
 # Engagement 
@@ -44,6 +41,13 @@ Here are some reasons why using an artificial intelligence-based chatbot might l
 ### Continuous Feedback: 
 
 - A steady stream of feedback can help creators understand what works and what doesn’t, allowing them to adjust their content accordingly, which in turn can further boost engagement.
+
+# PoC
+
+
+![Screenshot 2023-08-25 190316](https://github.com/tiktechchatbot/tiktok-chatbotai/assets/121228239/bf1aa317-fea7-4cef-8fd4-37463dd53bd3)
+
+
 
 
 # ITA
