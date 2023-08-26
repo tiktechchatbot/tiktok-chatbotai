@@ -1,4 +1,7 @@
-# TikTech
+# TikTech - ChatBOT AI for TikTok
+
+![Screenshot 2023-08-25 190316](https://github.com/tiktechchatbot/tiktok-chatbotai/assets/121228239/bf1aa317-fea7-4cef-8fd4-37463dd53bd3)
+
 
 # ENG
 
